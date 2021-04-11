@@ -39,6 +39,12 @@ const sessionOptions = session({
         httpOnly: true
     }
 })
+
+app.use(
+    helmet({
+        contentSecurityPolicy: false
+    })
+)
 app.use(sessionOptions)
 app.use(flash())
 
