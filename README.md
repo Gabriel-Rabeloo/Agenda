@@ -3,7 +3,7 @@ Obs: O projeto foi totalmente focado no back-end, então o front-end é realment
 
     COMO EXECUTAR O PROGRAMA 
    
-   1. instalar todas as depedências 
+   1. instale todas as depedências 
    npm i ou npm install
    
    2. Configure o banco de dados no MongoDB Atlas
@@ -12,9 +12,9 @@ Obs: O projeto foi totalmente focado no back-end, então o front-end é realment
    
     Para executar o programa utilize
    
-        npm run dev
+   npm run dev
    
-        npm start 
+   npm start 
    
    
 Em seguida no console aparecera mais informações necessárias.   
