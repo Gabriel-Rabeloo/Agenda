@@ -10,10 +10,11 @@ Obs: O projeto foi totalmente focado no back-end, então o front-end é realment
    
    3. Crie as variáveis de ambiente (arquivo .env)
    
-   Para executar o programa utilize
+    Para executar o programa utilize
    
-   npm run dev
-   npm start 
+        npm run dev
+   
+        npm start 
    
    
 Em seguida no console aparecera mais informações necessárias.   
