@@ -4,7 +4,7 @@ Obs: O projeto foi totalmente focado no back-end, então o front-end é realment
     COMANDOS PARA EXECUTAR 
    
    Para instalar todas as depedências 
-   Npm i
+   npm i
    
    Para executar o programa
    
