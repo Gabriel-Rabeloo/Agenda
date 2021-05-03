@@ -1,4 +1,4 @@
-Projeto de uma agenda simples, ainda não está 100% porém ja faz um CRUD completo.
+Projeto de uma agenda simples.
 Obs: O projeto foi totalmente focado no back-end, então o front-end é realmente básico.
 
     COMO EXECUTAR O PROGRAMA 
