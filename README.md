@@ -1,20 +1,21 @@
-Projeto de uma agenda simples.
-Obs: O projeto foi totalmente focado no back-end, então o front-end é realmente básico.
+Draft a simple agenda.
+**CRUD**
+>Note: The project was totally focused on the back-end, so the front-end is really basic.
 
-    COMO EXECUTAR O PROGRAMA 
+    HOW TO CONFIGURE THE PROGRAM
    
-   1. instale todas as depedências 
-   npm i ou npm install
+  1. install all dependencies    npm i or npm install
+
+   2. Configure the database in MongoDB Atlas
    
-   2. Configure o banco de dados no MongoDB Atlas
+   3. Create the environment variables (.env file)
    
-   3. Crie as variáveis de ambiente (arquivo .env)
+    HOW TO USE THE PROGRAM
    
-    Para executar o programa utilize
+
+       1. npm run dev
+       
+       2. npm start
+
    
-   npm run dev
-   
-   npm start 
-   
-   
-Em seguida no console aparecera mais informações necessárias.   
+Then the necessary information will appear on the console.
