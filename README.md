@@ -1,6 +1,14 @@
 Draft a simple agenda.
 
 **CRUD**
+### technologies used
+- Express
+- BcryptJs
+- Helmet
+- Express-Session
+- Moongoose
+- Validator
+
 >Note: The project was totally focused on the back-end, so the front-end is really basic.
 
     HOW TO CONFIGURE THE PROGRAM
